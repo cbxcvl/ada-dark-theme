@@ -18,7 +18,7 @@ This is a theme for [Home Assistant](https://www.home-assistant.io/). You can in
 
 ## Screenshot
 
-![image](./www/ada-dark.jpeg)
+![image](./www/ada-theme-1.png)
 
 ## Optional custom cards
 
